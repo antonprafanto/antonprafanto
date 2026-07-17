@@ -1,0 +1,48 @@
+{
+  "type": "normal",
+  "fileName": "profile-contrib.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#00000f",
+  "strongColor": "#111133",
+  "weakColor": "gray",
+  "radarColor": "#47a042",
+  "growingAnimation": true,
+  "contribColors": [
+    "#efefef",
+    "#d8e887",
+    "#8cc569",
+    "#47a042",
+    "#1d6a23"
+  ],
+  "l10n": {
+    "commit": "Commit",
+    "repo": "Repo",
+    "review": "Review",
+    "pullreq": "PullReq",
+    "issue": "Issue",
+    "contrib": "contributions"
+  },
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "#f0c14a",
+    "weakColor": "#8b949e",
+    "radarColor": "#3fb950",
+    "contribColors": [
+      "#21262d",
+      "#0e4429",
+      "#006d32",
+      "#26a641",
+      "#39d353"
+    ],
+    "l10n": {
+      "commit": "Commit",
+      "repo": "Repo",
+      "review": "Review",
+      "pullreq": "PullReq",
+      "issue": "Issue",
+      "contrib": "contributions"
+    }
+  }
+}

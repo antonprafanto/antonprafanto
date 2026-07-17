@@ -1,5 +1,6 @@
 # 3D contribution calendar for GitHub profile README
 # Docs: https://github.com/yoshi389111/github-profile-3d-contrib
+# Supports light/dark via darkMode in conf/github-profile-3d-contrib.json
 
 name: GitHub-Profile-3D-Contrib
 
@@ -22,6 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
