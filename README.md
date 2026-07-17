@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=3DDC84&center=true&vCenter=true&width=720&lines=Anton+Prafanto;IoT+%26+ESP32+Builder;Learn+to+Code+with+Indonesia" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=3DDC84&center=true&vCenter=true&width=820&lines=Anton+Prafanto;I+build+IoT+%26+ESP32+projects;I+teach+at+Koding+Indonesia" alt="Typing banner" />
 </p>
 
 <h1 align="center">Hi, I'm Anton 👋</h1>
 
 <p align="center">
   Maker, developer, and educator focused on <b>Embedded Systems</b>, <b>IoT</b>, and <b>ESP32</b>.<br/>
-  Building open-source projects and learning content at
+  I create open-source hardware/software projects and publish tutorials on
   <a href="https://kodingindonesia.com"><b>Koding Indonesia</b></a>.
 </p>
 
