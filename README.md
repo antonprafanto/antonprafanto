@@ -193,7 +193,7 @@ Tertarik berkolaborasi dalam riset IoT, pengembangan sistem perangkat lunak, pro
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-kodingindonesia.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kodingindonesia.com)
-[![Email](https://img.shields.io/badge/Email-anton%40unmul.ac.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anton@unmul.ac.id)
+[![Email](https://img.shields.io/badge/Email-antonprafanto%40unmul.ac.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonprafanto@unmul.ac.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--prafanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anton-prafanto-3b520167)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62811553393)
 
