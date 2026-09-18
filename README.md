@@ -158,12 +158,14 @@ I am a university lecturer and academic researcher at the **Informatics Departme
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonprafanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=antonprafanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=antonprafanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonprafanto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Contributions-2%2C300%2B_Total-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Repositories-135_Public-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Gists-191_Public-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Public Gists" />
+  <img src="https://img.shields.io/badge/Followers-53_Developers-orange?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
 </p>
 
 </div>
