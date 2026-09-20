@@ -2,7 +2,7 @@
 
 <!-- Typing Animated Banner -->
 <a href="https://kodingindonesia.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00F5D4&center=true&vCenter=true&width=860&lines=Anton+Prafanto%2C+S.Kom.%2C+M.T.;Lecturer+%26+Researcher+%40+Universitas+Mulawarman;Founder+%40+Koding+Indonesia+(kodingindonesia.com);IoT+Systems+%26+Embedded+Hardware+Engineer;Building+Smart+Air+Quality+%26+IKN+Research+Platforms" alt="Anton Prafanto - Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00F5D4&center=true&vCenter=true&width=860&lines=Anton+Prafanto%2C;Lecturer+%26+Researcher+%40+Universitas+Mulawarman;Founder+%40+Koding+Indonesia+(kodingindonesia.com);IoT+Systems+%26+Embedded+Hardware+Engineer;Building+Smart+Air+Quality+%26+IKN+Research+Platforms" alt="Anton Prafanto - Typing Banner" />
 </a>
 
 # 👨‍💻 Anton Prafanto
